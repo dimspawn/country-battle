@@ -1,0 +1,121 @@
+body {
+    background:#A2678A;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.boxpanel {
+    width: 575px;
+    height: 120px;
+    border-radius: 25px;
+    background: #4D3C77;
+    margin: 15px auto 0;
+    box-shadow: 0px 3px 15px rgb(63, 29, 56);
+    display: flex;
+}
+
+.flagimg {
+    margin-top: 10px;
+    margin-left: 10px;
+    height: 70px;
+    width: 70px;
+}
+
+.audienceimg {
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+}
+
+.legendimg {
+    height: 40px;
+    width: 40px;
+}
+
+.audience {
+    margin-top: 10px;
+    margin-left: 10px;
+    width: 410px;
+    height: 100px;
+    border-radius: 20px;
+    background: #E19898;
+}
+
+.numberbox {
+    text-align: center;
+    margin-top: 35px;
+    margin-left: 10px;
+    border-radius: 25px;
+    height: 50px;
+    width: 50px;
+    background: #C23373;
+}
+
+.numbertext {
+    margin-top: 5px;
+}
+
+.numberpoint {
+    margin-top: 8px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.audiencebox {
+    display: flex;
+    padding-left: 20px;
+}
+
+.audiencecontainer {
+    margin-top: 13px;
+    margin-left: 10px;
+}
+
+.maincontainer {
+    flex: 1.7;
+}
+.sidecontainer {
+    flex: 1;
+}
+
+.giftcontainer {
+    display: flex;
+    padding: 20px;
+}
+
+.timebox {
+    margin-top: 120px;
+    padding: 15px 15px;
+    width: 300px;
+    height: 180px;
+    border-top-right-radius: 80px;
+    border-bottom-right-radius: 80px;
+    background: #E19898;
+}
+
+.legendbox {
+    background: #E19898;
+    border-radius: 15px;
+    margin-left: 10px;
+    margin-top: 250px;
+    width: 320px;
+    height: 400px;
+}
+
+.timebox p {
+    text-align: center;
+    font-size: 40px;
+    font-weight: bold;
+    margin-top: 25px;
+}
+
+.zero {
+    padding: 20px;
+}
+.zero p {
+    margin: 0;
+    font-size: 18px;
+}
+
+.giftpad {
+    margin-right: 30px;
+}
